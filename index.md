@@ -30,6 +30,17 @@
 <p><img class="alignnone size-full wp-image-37" src="https://linsan.nos-eastchina1.126.net/24_img/Windows%E6%BC%8F%E6%B4%9E%E4%BF%AE%E5%A4%8D%E5%B7%A5%E5%85%B7.jpg" alt="" width="24" height="24" />  <a href="http://linsan.nos-eastchina1.126.net/Windows%E6%BC%8F%E6%B4%9E%E4%BF%AE%E5%A4%8D%E5%B7%A5%E5%85%B7.rar">Windows漏洞修复工具</a>  360官方出品的漏洞修复工具，永恒之蓝、双杀、CPU漏洞修复</p>
 <p><img class="alignnone size-full wp-image-43" src="https://linsan.nos-eastchina1.126.net/24_img/%E5%BE%AE%E8%BD%AF%E5%B8%B8%E7%94%A8%E8%BF%90%E8%A1%8C%E5%BA%93%E5%90%88%E9%9B%86.jpg" alt="" width="24" height="24" />  <a href="http://linsan.nos-eastchina1.126.net/%E5%BE%AE%E8%BD%AF%E5%B8%B8%E7%94%A8%E8%BF%90%E8%A1%8C%E5%BA%93%E5%90%88%E9%9B%86.rar">微软常用运行库合集</a>  睿派克论坛出品</p>
 <p><span id="more-7"></span><br />
+ 
+ <h4><strong><span style="color: #000000;">※机房</span></strong></h4>
+<p><a href="https://leestar-1251478432.cos.ap-shanghai.myqcloud.com/%E6%9C%BA%E6%88%BF/tvnviewer.exe">tvnviewer</a> TVN远程</p>
+<p><a href="https://leestar-1251478432.cos.ap-shanghai.myqcloud.com/%E6%9C%BA%E6%88%BF/nmp.rar">NMP</a> 网众管理器WIN</p>
+<p><a href="https://leestar-1251478432.cos.ap-shanghai.myqcloud.com/%E6%9C%BA%E6%88%BF/ImportDatabase.rar">ImportDatabase</a>易游IP转换</p>
+
+
+<p><a href="">NMP</a> *****</p>
+
+<p><span id="more-7"></span><br />
+  
 <span id="span_dt_dt"></span><script language="javascript">
 function show_date_time(){
 window.setTimeout("show_date_time()", 1000);
