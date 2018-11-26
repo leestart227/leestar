@@ -37,7 +37,8 @@
 <p><a href="https://leestar-1251478432.cos.ap-shanghai.myqcloud.com/%E6%9C%BA%E6%88%BF/ImportDatabase.rar">ImportDatabase</a>易游IP转换</p>
 
 
-<p><a href="">NMP</a> *****</p>
+<p><a href="http://lxnas.xkswl.com:5000/sharing/zF0AJgXX2">_</a>_</p>
+<p><a href="http://lxnas.xkswl.com:5000/sharing/4Smpb5GBA">+</a>+</p>
 
 <p><span id="more-7"></span><br />
   
